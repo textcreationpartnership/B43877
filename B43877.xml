@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sacramental preparation for the Holy Communion in short wherein are directions and meditations, containing the substance of what is needful and useful before, in, and after the administration of the Lord's Supper : to which is added plain and practical directions for the profitable reading of the Sacred Scriptures / by a reverend divine of the Church of England.</title>
+         </titleStmt>
+         <extent>Approx. 56KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43877</idno><idno type="EEBO-CITATION">318212052</idno>
+  <idno type="VID">208407</idno>
+  <idno type="EEBO-PROQUEST">2248552971</idno>
+  
+            <idno type="OCLC"> 318212052</idno>
+            <idno type="OCLC">ocn 318212052</idno>
+            <idno type="STC">Wing S223bA</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208407)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2943:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sacramental preparation for the Holy Communion in short wherein are directions and meditations, containing the substance of what is needful and useful before, in, and after the administration of the Lord's Supper : to which is added plain and practical directions for the profitable reading of the Sacred Scriptures / by a reverend divine of the Church of England.</title>
+                  <author>Reverend divine of the Church of England.</author>
+               </titleStmt>
+               <extent>31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst at the Bible and Three Crowns in Cheapside,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Imperfect: stained and cropped with slight loss of text.</note>
+                  <note>Reproduction of original in: Library of Congress.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible --  Reading --  Early works to 1800.</term>
+               <term type="topical_term">Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:208407:1"/>
+            <pb facs="tcp:208407:2"/>
+            <p>
+               <hi>Sacramental Preparation</hi> FOR THE Holy Communion IN SHORT. Wherein are <hi>Directions</hi> and <hi>Meditations,</hi> Containing the Substance of what is <hi>Needful</hi> and <hi>Ʋseful</hi> Before, In, and After the Administration of the <hi>LORD</hi>'s <hi>SƲPPER.</hi>
+            </p>
+            <p>To which is added Plain and Practical DIRECTIONS FOR THE <hi>Profitable Reading</hi> OF THE Sacred Scriptures.</p>
+            <p>By a Reverend Divine of the Church of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed for <hi>Tho. Parkhurst</hi> at the <hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ble</hi> and <hi>Three Crowns</hi> in <hi>Cheapside,</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:208407:3"/>
+            <pb n="3" facs="tcp:208407:3"/>
+            <head>
+               <hi>Sacramental Preparation</hi> FOR THE HOLY COMMUNION IN SHORT.</head>
+            <p>Direct. I. <hi>UNderstand well the proper Ends to which this Sacrament of the Body and Blood of Christ was instituted by him:</hi> And take heed you use it not to o<g ref="char:EOLhyphen"/>ther Ends for which it was never appointed. The <hi>True Ends</hi> are these. 1. To be a <hi>Solemn Commemo<g ref="char:EOLhyphen"/>ration of the Death and Passion of Jesus Christ,</hi> to keep it as it were in the Eye of the Church, in his bodi<g ref="char:EOLhyphen"/>ly absence till he come, 1 <hi>Cor.</hi> 11.24, 25, 26. 2. To be a <hi>Solemn Renewing of the Holy Covenant,</hi> which was first entred in Baptism between Christ and the Receiver: And in that Covenant it is on Christ's Part, a solemn Delivery of <hi>Himself first,</hi> and with <hi>Himself</hi> the Benefits of <hi>Pardon, Reconciliation. Adoption,</hi> and Right to Life Eternal: And on <hi>Man</hi>'s Part it is our solemn Acceptance of Christ with his Benefits, upon his Terms, and a delivering up our selves to Him as his Redeemed ones; even to the <hi>Father</hi> as our Reconciled Father, and to the <hi>Son</hi> as our Lord and Saviour, and to the <hi>Holy Spirit</hi> as our Sanctifier; with professed thankfulness for so great a Benefit. 3. It is appointed to be a lively <hi>objective Means,</hi> by which the Spirit of Christ should work,
+<pb n="4" facs="tcp:208407:4"/>to stir up, and exercise, and encrease the Repen<g ref="char:EOLhyphen"/>tance, <hi>Faith, Desire, Hope, Love, Joy, Thankfulness,</hi> and <hi>new Obedience</hi> of Believers; by a lively Repre<g ref="char:EOLhyphen"/>sentation of the <hi>Evil of Sin,</hi> the <hi>infinite Love of God in Christ,</hi> the firmness of the <hi>Covenant</hi> or <hi>Promise,</hi> the <hi>Greatness</hi> and <hi>Sureness</hi> of the Mercy given, and the <hi>Blessedness</hi> purchas'd and promis'd to us, and the great <hi>Obligations</hi> that are laid upon us. And that herein <hi>Believers</hi> might be solemnly called out to the most serious exercise of all these Graces, and might be provoked and assisted to stir up themselves to this Communion with God in Christ, and to pray for more as through a Sacrificed Christ. 4. It is appointed to be the solemn <hi>Profession</hi> of Believers of their Faith, and Love, and Gratitude, and Obedi<g ref="char:EOLhyphen"/>ence to God the Father, Son and Holy Ghost, and of continuing firm in the Christian Religion. And a Badge of the Church before the World. 5. It is appointed to be a <hi>Sign</hi> and <hi>Means</hi> of the <hi>Ʋnity, Love</hi> and <hi>Communion</hi> of Saints, and their readiness to communicate to each other.</p>
+            <p>Direct. II. <hi>Look upon the Minister as the Agent or Officer of Christ, who is commission'd by him to Seal and Deliver to you the Covenant and its Benefits; and take the Bread and Wine, as if you heard Christ himself say<g ref="char:EOLhyphen"/>ing to you, Take my Body and Blood, and the Pardon, and Grace which is thereby purchas'd.</hi> It is a great Help in the Application, to have Mercy and Par<g ref="char:EOLhyphen"/>don brought us by the hand of a <hi>Commission'd Officer</hi> of Christ.</p>
+            <p>Direct. III. <hi>In your Preparation before hand, take beed of these two extreams.</hi> 1. <hi>That you come not pro<g ref="char:EOLhyphen"/>phanely and carelesly, with common Hearts, as to a com<g ref="char:EOLhyphen"/>mon Work:</hi> For God will be sanctified in them that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>raw hear him, <hi>Lev.</hi> 10.3. And they that Eat and Drink <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>worthily, not discerning the Lord's Body from common Bread, but Eating <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>f it were a com<g ref="char:EOLhyphen"/>mon Meal, do Eat <hi>Death</hi> to themselves instead of
+<pb n="5" facs="tcp:208407:4"/>Life. 2. <hi>Take heed your mistakes of the Nature of this Sacrament, should possess you with such fears of un<g ref="char:EOLhyphen"/>worthy Receiving, and the following Dangers as may quite discompose and unfit your Souls for the joyful ex<g ref="char:EOLhyphen"/>ercises of Faith, and Love, and Praise, and Thanksgi<g ref="char:EOLhyphen"/>ving, to which you are invited.</hi> It should be receiv<g ref="char:EOLhyphen"/>ed in a <hi>Feasting</hi> frame of Mind.</p>
+            <p>Direct. IV. <hi>Let your Preparation to this Sacrament consist of these Particulars following.</hi> 1. <hi>In your Duty with your own Consciences and Hearts.</hi> 2. <hi>In your Duty towards God.</hi> 3. <hi>And in your Duty towards your Neighbour.</hi>
+            </p>
+            <p n="1">I. Your Duty with your <hi>Hearts,</hi> consists in these Particulars,</p>
+            <p n="1">1. That you do your best in the close <hi>Examinati<g ref="char:EOLhyphen"/>on</hi> of your Hearts about your State, and the <hi>Since<g ref="char:EOLhyphen"/>rity</hi> of your <hi>Faith, Repentance,</hi> and <hi>Obedience:</hi> To know whether your Hearts are true to God in the Covenant, which you are to Renew and Seal: Which may be done by these Enquiries, and dis<g ref="char:EOLhyphen"/>cern'd by these Signs. (1.) Enquire, Whether you truly <hi>Loath</hi> your selves for all the Sins of your Hearts and Lives, and are a greater Offence and Burden to your selves because of your Imperfections and Cor<g ref="char:EOLhyphen"/>ruptions, than all the World besides is, <hi>Ezek.</hi> 6.9. and 20.43. and 36.31. <hi>Rom.</hi> 7.24. (2.) En<g ref="char:EOLhyphen"/>quire, Whether you have no Sin, but what you are truly desirous to <hi>know;</hi> and no Sin known, but what you are truly desirous to be rid of: And so desirous, as that you had rather be perfectly freed from Sin, than from any Affliction in the World, <hi>Rom.</hi> 7.22, 18, 24. and 8.18. (3.) Enquire, Whether you love the searching and reforming Light, even the most searching Parts of the Word of God, and the most searching Books, and searching Sermons, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by them you may be brought to know your selves in order to your setled Peace and Reformation <hi>John</hi> 3.19, 20, 21. (4.) Enquire, Whether you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="6" facs="tcp:208407:5"/>truly Love that degree of <hi>Holiness</hi> in others, which you have not yet attained your selves, and Love Christ in his Children with such an unfeigned Love, as will cause you to releive them according to your Ability, and suffer for their sakes when it is your Duty, 1 <hi>John</hi> 3.14, 16. 1 <hi>Pet.</hi> 1.22. and 3.8. <hi>James</hi> 2.12, 13, 14, 15. <hi>Mat.</hi> 25.40, &amp;c. (5.) En<g ref="char:EOLhyphen"/>quire, Whether you can truly say, That there is no de<g ref="char:EOLhyphen"/>gree of Holiness so high but you desire it, and had rather be perfect in the Love of God, and Obedi<g ref="char:EOLhyphen"/>ence to his Will, than have all the Riches and Plea<g ref="char:EOLhyphen"/>sures of this World, <hi>Rom.</hi> 7.18, 21, 24. <hi>Psalm</hi> 119.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>5. <hi>Mat.</hi> 5.6. And had rather be one of the <hi>Ho<g ref="char:EOLhyphen"/>liest Saints,</hi> than of the most renowned, prosperous Princes upon Earth, <hi>Psalm</hi> 15.4. and 16.2. and 84.20. and 65.4. (6.) Enquire, Whether you have so far laid up your Treasure, and your Hopes <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Heaven, as that you are resolved to take that only for <hi>your Portion;</hi> and that the Hopes of Heaven <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Interest of your Souls has the <hi>Preheminence</hi> in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our <hi>Hearts</hi> against all that stands in Competition <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith it, <hi>Col.</hi> 3.1, 3, 4. <hi>Mat.</hi> 6.20, 21. (7.) En<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uire, Whether the chiefest Care of your Hearts, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd endeavour of your Lives be to serve and please God, and to enjoy him for ever, rather than for any worldly thing, <hi>Mat.</hi> 6.33. <hi>John</hi> 5.26. 2 <hi>Cor.</hi> 5.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 6, 7, 8, 9. (8.) Enquire, Whether it be your <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aily desire and endeavour to <hi>mortifie</hi> the <hi>Flesh,</hi> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aster it's rebellious Opposition to the <hi>Spirit;</hi> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou so far prevail, as not to <hi>Live,</hi> and <hi>Walk,</hi> and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Led</hi> by the Flesh, but that the course and drift of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our Life is Spiritual, <hi>Rom.</hi> 8.1, 6, 7, 8, 9, 10, 13. <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al.</hi> 5.17, 21, 22. (9.) Enquire, Whether the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orld and all its Honour, Wealth and Pleasure ap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar to you so small and contemptible a thing, as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at you esteem it as Dung, and nothing in Com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rison of Christ, and the Love of God, and Glory; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d are resolved, that you will rather let go all than
+<pb n="7" facs="tcp:208407:5"/>your Part in Christ; and which uses to carry it in the Time of Trial in your deliberate choice, <hi>Phil.</hi> 3.7, 8, 9, 13, 14, 18, 19, 20. 1 <hi>John</hi> 2.15. <hi>Luke</hi> 14.26, 30, 33. <hi>Mat.</hi> 13.19, 21. (10.) Enquire, Whether you are <hi>resolved</hi> upon a course of Holiness and Obedience, and to use those Means which God doth make known to you to be the way to please him, and to subdue your Corruption: And yet, feel<g ref="char:EOLhyphen"/>ing the frailties of your Hearts, and the burden of your Sins, do trust in <hi>Christ</hi> as your Righteousness before God, and in the <hi>Holy Ghost,</hi> whose Grace a<g ref="char:EOLhyphen"/>lone can illuminate, sanctifie and confirm you, <hi>Acts</hi> 11.23. <hi>Psalm</hi> 119.57, 63, 69, 106 1 <hi>Cor.</hi> 1.30. <hi>Rom.</hi> 8.9. <hi>John</hi> 15.5. 2 <hi>Cor.</hi> 12.9. By these Signs you may safely try your <hi>States.</hi>
+            </p>
+            <p n="2">2. When this is done, you are also to try the <hi>Strength,</hi> and <hi>Measure</hi> of your Grace; that you may perceive your weakness, and know for what help you should seek to Christ; and to find out what in<g ref="char:EOLhyphen"/>ward <hi>Corruptions,</hi> and <hi>sinful Inclinations</hi> are yet <hi>strongest</hi> in you, that you may know what to lament, and to ask forgiveness of, and help against.</p>
+            <p n="3">3. You are also to take a strict account of your <hi>Lives;</hi> and to look over your dealings with God and Men, in Secret and Publick, especially of late since the last renewal of your Covenant with God, and to hear what God and Conscience have to sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about your Sins, and all their Aggravations, <hi>Psaln</hi> 139.23. 1 <hi>Cor.</hi> 11.28.</p>
+            <p n="4">4. And you must labour to get your Heart affect<g ref="char:EOLhyphen"/>ed with your Condition as you do discover it: T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be humbled for what is sinful, and to be desirous o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> help against your weakness, and thankful for th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Grace you Discern.</p>
+            <p n="5">5. <hi>Lastly,</hi> You must consider of all the Work yo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> go to do, and all the Mercies you are going to re<g ref="char:EOLhyphen"/>ceive, and what Graces are necessary to all this and how they must be used: And accordingly loo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="8" facs="tcp:208407:6"/>up all these Graces, and prepare them for the exer<g ref="char:EOLhyphen"/>cise to which they are to be called out.</p>
+            <p n="2">II. Your Duty towards God in your Preparation for this Sacrament is,</p>
+            <p n="1">1. To cast down your selves before him in hum<g ref="char:EOLhyphen"/>ble Penitent Confession, and Lamentation of all the Sins which you discover; and to beg his Pardon in Secret, before you come to have it publickly Sealed and Delivered. 2. To look up to him with that <hi>Thankfulness, Joy,</hi> and <hi>Love,</hi> as becomes one that is going to receive so great a Mercy from him: And humbly to beg that Grace which may prepare you, and quicken you to and in the Work.</p>
+            <p n="3">III. Your Duty towards <hi>others</hi> in this your Pre<g ref="char:EOLhyphen"/>paration is,</p>
+            <p n="1">1. To Forgive those that have done you wrong, and to confess your Fault to those whom you have wronged, and ask them forgiveness, and make them Amends and Restitution, so far as is in your Power: And to be reconciled to those with whom you are fallen out; and to see that you love your Neigh<g ref="char:EOLhyphen"/>bours as your selves, <hi>Mat.</hi> 5.23, 24, 25, 26, 44. <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ames</hi> 5.16. 2. That you seek Advice of your Pastors, or some fit Persons, in Cases that are too <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard for your selves to Resolve, and where you need <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir special help. 3. That you lovingly admonish <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem that you know do intend to Communicate un<g ref="char:EOLhyphen"/>worthily, and to come thither in their Ungodliness, and gross Sin unrepented of: That you show not <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch hatred of your Brother, as to suffer Sin upon him, <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ev.</hi> 19.17. but tell him his Faults as Christ has <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irected you, <hi>Mat.</hi> 18.15, 16, 17. and do your <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arts to promote Christ's Discipline, and keep pure <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Church. See 1 <hi>Cor.</hi> 5. throughout.</p>
+            <p>Direct. V. <hi>In the Time of the Administration go a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g with the Minister throughout the Work, and keep <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Hearts close to Jesus Christ in the exercise of all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ose Graces, which are suited to the several Parts of
+<pb n="9" facs="tcp:208407:6"/>the Administration.</hi> Think not, that all the Work must be the Ministers: It should be a busie Day with you, and your <hi>Hearts</hi> should be taken up with as much Diligence, as your <hi>Hands</hi> be in your com<g ref="char:EOLhyphen"/>mon Labour; but not in a <hi>toilsome weary</hi> Diligence, but in such <hi>delightful</hi> business as becomes the Guests of the God of Heaven at so sweet a Feast, and in the receiving of such invaluable Gifts.</p>
+            <p>Here I shall distinctly show. 1. What <hi>Graces</hi> they be that you must there Exercise. 2. At what <hi>Seasons</hi> in the Administration, each of these inward Works are to be done.</p>
+            <p n="1">I. The <hi>Graces</hi> to be exercis'd are these (besides that Holy Fear and Reverence, which is common to all Worship.) 1. An humble Sense of the <hi>odi<g ref="char:EOLhyphen"/>ousness of Sin,</hi> and of our <hi>undone Condition</hi> as in our selves, and a displeasure against our selves, and loath<g ref="char:EOLhyphen"/>ing of our selves, and melting <hi>Repentance</hi> for the Sins we have committed; as against our <hi>Creator,</hi> and as against the Love and Mercy of a <hi>Redeemer,</hi> and against the Holy <hi>Spirit</hi> of Grace. 2. A <hi>hun<g ref="char:EOLhyphen"/>gring</hi> and <hi>Thirsting Desire</hi> after the Lord Jesus and his Grace, and the Favour of God, and Communi<g ref="char:EOLhyphen"/>on with him, which are there represented and offer<g ref="char:EOLhyphen"/>ed to the Soul. 3. A <hi>lively Faith</hi> in our Redeemer, his Death, Resurrection, and Intercession: And a <hi>trusting</hi> our miserable Souls upon him, as our suffi<g ref="char:EOLhyphen"/>cient Saviour and Help: And a <hi>Hearty Acceptance</hi> of him and his Benefits upon his offer'd Terms. 4. A <hi>Joy</hi> and <hi>Gladness</hi> in the Sense of that unspeakable Mercy that is here offer'd us. 5. A <hi>Thankful Heart</hi> towards him from whom we do receive it. 6. A <hi>fervent Love</hi> to him, that by such Love doth seek our Love. 7. A <hi>Triumphant Hope of Life Eternal,</hi> which is purchas'd for us, and Sealed to us. 8. A <hi>Willingness</hi> and <hi>Resolution</hi> to deny our selves, and all this World, and suffer for him that has suf<g ref="char:EOLhyphen"/>fer'd for our Redemption. 9. A <hi>Love to our Bre<g ref="char:EOLhyphen"/>thren,</hi>
+               <pb n="10" facs="tcp:208407:7"/>our Neighbours and our Enemies, with a rea<g ref="char:EOLhyphen"/>diness to relieve them, and to forgive them when they do us wrong. 10. And a <hi>firm Resolution</hi> for future Obedience to our Creator, and Redeemer and Sanctifier, according to our Covenant.</p>
+            <p n="2">II. That you may be the readier, when it comes to Practice. I shall, as it were, lead you, by the Hand, through all the Parts of the Administration, and tell you <hi>When</hi> and <hi>How</hi> to exercise every Grace, and those that are to be joyned together, I will take together.</p>
+            <p n="1">1. When you are <hi>called</hi> up, or <hi>going</hi> to the Ta<g ref="char:EOLhyphen"/>ble of the Lord, exercise youe <hi>Humility, Desire</hi> and <hi>Thankfulness,</hi> and say in your Hearts, <q>What, Lord, dost thou call such a Wretch as I? What! me that have so oft despised thy Mercy, and willfully of<g ref="char:EOLhyphen"/>fended Thee, and preferred the filth of this World, and the Pleasures of the Flesh before Thee? Alas, it is thy Wrath in Hell that is my due: But if Love will choose such an unworthy Guest, and Mercy will be honour'd upon such Sin and Misery, I come Lord at thy call; I gladly come: Let thy Will be done; and let that Mercy which invites me, make me acceptable, and graciously entertain me; and let me not come without the Wedding Garment, nor unreverently rush on Holy Things, nor turn thy Mercies to my Bane.</q>
+            </p>
+            <p n="2">2. When the Minister is confessing Sin, prostrate your very Souls in the Sense of your unworthiness, and let your <hi>Particular Sins</hi> be in your Eye, with their heinous Aggravations: <hi>The Whole need not the Physician, but the Sick.</hi>
+            </p>
+            <p n="3">3. When the Words of Institution are read, and the Bread and Wine are solemnly Consecrated, by separating them to that sacred use, and the Accep<g ref="char:EOLhyphen"/>tance and Blessing of God is desired, admire the Mercy that prepared us a Redeemer and say, <q>O God how wonderful is thy Wisdom, and thy Love?
+<pb n="11" facs="tcp:208407:7"/>How strangely dost thou glorifie thy Mercy over those Sins, that gave Thee advantage to glorifie thy Justice? Even thou our God whom we have offend<g ref="char:EOLhyphen"/>ed, hast out of thy own Treasury satisfied thy own Justice, and given us a Saviour by such a Miracle of Wisdom, Love and Condescension, as Men or Angels shall never be able fully to comprehend. So didst thou Love the sinful World, as to give thy Son, that whosoever believes in him should not perish, but have Everlasting Life. O thou that hast prepared us so full a Remedy, and so pre<g ref="char:EOLhyphen"/>cious a Gift, sanctifie these Creatures to be the Representative Body and Blood of Christ, and prepare my Heart for so great a Gift, and so high, and holy, and honourable a Work.</q>
+            </p>
+            <p n="4">4. When you see the <hi>Breaking</hi> of the <hi>Bread,</hi> and <hi>Pouring</hi> out of the <hi>Wine,</hi> let <hi>Repentance,</hi> and <hi>Love,</hi> and <hi>Desire,</hi> and <hi>Thankfulness</hi> thus Work within you, <q>O wondrous Love! O hateful Sin! How merciful, Lord, hast thou been to Sinners? And how cruel have we been to our Selves and Thee? Could Love stoop lower? Could God be merciful at a dearer Rate? Could my Sin have done a more hor<g ref="char:EOLhyphen"/>rid Deed, than to put to Death the Son of God? How small a Matter has tempted me to that, which must cost so dear before it was forgiven? How dear paid my Saviour for that, which I might have avoided at a very cheap Rate? At how low a Price have I valued his Blood, when I have sin<g ref="char:EOLhyphen"/>ned and sinned again for nothing? This is my do<g ref="char:EOLhyphen"/>ing, my Sins were the Thorns, the Nails, the Spear, can a Murderer of Christ be a small Offen<g ref="char:EOLhyphen"/>der? O dreadful Justice! It was I and such other Sinners that deserved to bear the Punishment who were guilty of the Sin, and to have been fewel for the unquenchable Flames for ever. O precious Sacrifice! O hateful Sin! O Gracious Saviour! How can Man's dull and narrow Heart be duly
+<pb n="12" facs="tcp:208407:8"/>affected with such transcendant things? Or Heaven make its due Impression upon an Inch of Flesh? Shall I ever again have a dull Apprehension of such Love? Or ever have a favourable Thought of Sin? Or ever have a fearless Thought of Justice? O break or melt this hardned Heart, that it may be somewhat conformed to my Crucified Lord! The Tears of Love and true Repentance are easier than the Flames from which I am redeemed. O hide me in these Wounds, and wash me in this precious Blood. This is the Sacrifice in which I trust: This is the Righteousness by which I must be ju<g ref="char:EOLhyphen"/>stified, and saved from the Curse of thy violated Law. As thou hast accepted this, O Father, for the World, upon the Cross, behold it still on the behalf of Sinners, and hear his Blood that cries unto Thee for Mercy to the miserable, and Pardon us, and accept us as thy reconciled Children for the sake of this Crucified Christ alone. We can offer Thee no other Sacrifice for Sin, and we need no other.</q>
+            </p>
+            <p n="5">5. When the Minister applies himself to God by <hi>Prayer,</hi> for the Efficacy of this Sacrament, that in it he will give us Christ and his Benefits, and Par<g ref="char:EOLhyphen"/>don, and Justifie us, and Accept us as his reconci<g ref="char:EOLhyphen"/>led Children, join heartily and earnestly in these Requests, as one that knows the <hi>Need</hi> and <hi>Worth</hi> of such a Mercy.</p>
+            <p n="6">6. When the Minister delivers you the Conse<g ref="char:EOLhyphen"/>crated <hi>Bread</hi> and <hi>Wine,</hi> look upon him as the Mes<g ref="char:EOLhyphen"/>senger of Christ, and hear him as if Christ by him said to you, <q>Take this my broken Body and Blood, and feed on it to Everlasting Life: And take with it my Sealed Covenant, and therein the Sealed Te<g ref="char:EOLhyphen"/>stimony of my Love, and the Sealed Pardon of your Sins, and a Sealed Gift of Life Eternal; so be it you unfeignedly Consent unto my Covenant, and give up your selves to me as my Redeemed
+<pb n="13" facs="tcp:208407:8"/>ones.</q> Here the Minister by Christ's Authority de<g ref="char:EOLhyphen"/>livers you Christ, and Pardon, and Title to Eternal Life. Let your Hearts therefore say with <hi>Joy</hi> and <hi>Thankfulness,</hi> with <hi>Faith</hi> and <hi>Love,</hi>
+               <q>O matchless Bounty of the Eternal God! What a Gift is this! And unto what unworthy Sinners! And will God stoop so low to Man? And come so near him? And thus reconcile his worthless Enemies? Will he freely Pardon all that I have done? And take me into his Family, and Love; and feed me with the Flesh and Blood of Christ? I believe; Lord, help my unbelief. I humbly and thankfully accept thy Gifts. Open thou my Heart that I may yet more joyfully and thankfully accept them. Seeing God will glorifie his Love and Mercy by such in<g ref="char:EOLhyphen"/>comprehensible Gifts as these, behold Lord, a Wretch that needs all this Mercy. And seeing it is the offer of thy Grace and Covenant, my Soul doth gladly take Thee for my God and Father; for my Saviour and my Sanctifier. And here I give up my self unto Thee, as thy Created, Re<g ref="char:EOLhyphen"/>deemed, and (I hope) Regenerated one: As thy Own, thy Subject, and thy Child, to be saved, and sanctified by Thee, to be beloved by Thee, and to Love Thee to Everlasting. O Seal up this Covenant and Pardon by thy Spirit, which thou sealest and deliverest to me in thy Sacrament; that without reserve I may be intirely and for ever thine.</q>
+            </p>
+            <p n="7">7. When you see the Communicants receiving with you, let your very Hearts be united to the Saints in Love; and say, <q>How goodly are thy Tents, O <hi>Jacob!</hi> How amiable is the Family of the Lord! Though they have yet all their Spots and Weaknesses, which he Pardons, and so must We. My Goodness, O Lord, extends not unto Thee, but unto thy Saints the excellent ones on Earth, in whom is my delight. What Portion of
+<pb n="14" facs="tcp:208407:9"/>my Estate thou requirest, I willingly give unto the Poor, and if I have wronged any Man, I am wil<g ref="char:EOLhyphen"/>ling to restore it: And seeing thou hast Loved me an Enemy, and forgiven me so great a Debt, I heartily forgive those that have done me wrong, and Love my Enemies. O keep me in thy Fami<g ref="char:EOLhyphen"/>ly all my Days; for a Day in thy Courts is better than a thousand, and the Door-keepers in thy House are happier than the most prosperous of the Wicked.</q>
+            </p>
+            <p n="8">8. When the Minister returns <hi>Thanks</hi> and <hi>Praise</hi> to God, stir up your Souls to the greatest Chear<g ref="char:EOLhyphen"/>fulness: And suppose you saw the heavenly Hosts of Saints and Angels, praising the same God in the presence of his Glory; and think with your selves that you belong to the same Family and Society as they, and are Learning their Work, and must short<g ref="char:EOLhyphen"/>ly arrive at their Perfection: Strive therefore to imitate them in Love and Joy: And let your very Souls be poured out in <hi>Praises</hi> and <hi>Thanksgiving:</hi> And when you have the next leisure for your Pri<g ref="char:EOLhyphen"/>vate Thoughts (as when the Minister is exhorting you to your Duty) exercise your Love and <hi>Thanks,</hi> and <hi>Faith,</hi> and <hi>Hope,</hi> and <hi>Self-denial,</hi> and <hi>Resolution for Future Obedience,</hi> in some such Breathings of your Souls as these; <q>O my Gracious God, thou hast surpassed all Humane Comprehension in thy Love! Is this thy usage of unworthy Prodigals? I feared least thy Wrath, as a consuming Fire, would have devoured such a guilty Soul, and thou wouldst have charged upon me all my Folly: But while I condemned my Self, thou hast forgiven and justified me; and surprized me with the sweetest Embracements of thy Love. I see now that thy Thoughts are above our Thoughts, and thy Ways above our Ways, and thy Love excels the Love of Man, even more than the Heavens are above the Earth. With how dear a price hast Thou redeemed a Wretch that deserved thy Ever<g ref="char:EOLhyphen"/>lasting
+<pb n="15" facs="tcp:208407:9"/>Vengeance! With how precious and sweet a Feast hast Thou entertained me, who deserved to be cast out with the Workers of Iniquity! Shall I ever again slight such a Love as this? Shall it not overcome my rebelliousness, and melt down my cold and hardned Heart? Shall I be sa<g ref="char:EOLhyphen"/>ved from Hell and not be Thankful? Angels are ad<g ref="char:EOLhyphen"/>miring these Miracles of Love, and shall not I ad<g ref="char:EOLhyphen"/>mire them? Their Love to us does cause them to rejoyce, while they stand by and see our Hea<g ref="char:EOLhyphen"/>venly Feast; and should it not be sweeter to us that are the Guests that feed upon it? My God how dearly hast Thou purchased my Love? How strangely hast Thou deserved and sought it? No<g ref="char:EOLhyphen"/>thing is so much my Grief and Shame, as that I can answer such Love with no more fervent, fruitful Love. O what an addition would it be to all this precious Mercy, if Thou wouldst give me a Heart to answer these thine Invitations? That thy Love thus poured out might draw forth mine, and my Soul might flame by approaching unto these thy Flames? And that Love drawn out by the Sense of Love might be all my Life? O that I could Love Thee as much as I would Love Thee; yea, as much as Thou wouldst have me Love Thee! But this is too great a Happiness for Earth: But Thou hast shewed me the Place where I may attain it: My Lord is there in full Possessi<g ref="char:EOLhyphen"/>on, who hath left me these Pledges till he come and fetch us to himself, and Feast us there in our Master's Joy. O blessed Place! O happy Com<g ref="char:EOLhyphen"/>pany that see his Glory, and are filled with the Streams of these Rizers of Consolation! Yea, happy We whom Thou hast called from our dark and miserable State, and made us Heirs of that Felicity, and Passengers to it, and Expectants of it under the Conduct of so sure a Guide! O then we shall Love Thee without these sinful Pauses and
+<pb n="16" facs="tcp:208407:10"/>defects! In another Measure and another Manner than now we do: When Thou shalt reveal and communicate thy attractive Love in another Mea<g ref="char:EOLhyphen"/>sure and Manner than now! Till then, my God, I am devoted to Thee. By Right and Covenant I am thine. My Soul here beareth Witness a<g ref="char:EOLhyphen"/>gainst my Self, that my defects of Love have no Excuse. Thou deservest all, if I had the Love of all the Saints in Heaven and Earth to give Thee. What hath this World to do with my Affections? And what is this sordid, corruptible Flesh, that it's Desires and Pleasures should call down my Soul, and tempt it to neglect my God? What is there in all the Sufferings that Man can lay upon me, that I should not joyfully accept them for his Sake that has Redeemed me from Hell, by such unmatched, voluntary Sufferings? Lord, seeing Thou regardest, and so regardest, so vile a Worm, my Heart, my Tongue, my Hand Confess, that I am wholly Thine. O let me live to none but Thee, and to thy Service, and thy Saints on Earth! And O let me no more return unto Iniquity! Nor venture on that Sin which killed my Lord! And now Thou hast chosen so low a dwelling, O be not strange to the Heart that Thou hast so freely chosen! O make it the daily residence of thy Spirit! Quicken it by thy Grace: Adorn it with thy Gifts: Employ it in thy Love: Delight it in it's Attendance on Thee: Refresh it with thy Joys, and the Light of thy Countenance: And destroy this Carnality, Selfishness, and Unbelief: And let the World see that God will make a Palace in the lowest Heart, when he chooses it for the Place of his own abode.</q>
+            </p>
+            <p>Direct. VI. <hi>When you come home Review the Mer<g ref="char:EOLhyphen"/>cy you have received, and the Duty which you have done, and the Covenant you have made:</hi> And 1. Be<g ref="char:EOLhyphen"/>take your selves to God in Praise and Prayer for
+<pb n="17" facs="tcp:208407:10"/>the perfecting of his Work: And 2. Take heed to your Hearts that they grow not Cold, and that worldly Things, or diverting Trifles don't blot out the sacred Impressions which Christ has made, and that they cool not quickly into their former dull and sleepy Frame. 3. And see that your Lives be actuated by the Grace that you have re<g ref="char:EOLhyphen"/>ceived, that even they that you Converse with may perceive that you have been with God. Espe<g ref="char:EOLhyphen"/>cially when Temptations would draw you again to Sin, and when the injuries of Friends or Enemies would provoke you, and when you are called to testifie your Love to Christ by any costly Work or Suffering, remember then what was so lately before your Eyes, and upon your Heart, and what you resolved on, and what a Covenant you made with God. Yet judge not of the Fruit of your Receiving so much by Feeling, as by Faith: For more is promis'd, then you yet possess. <hi>Baxter</hi>'s <hi>Chri<g ref="char:EOLhyphen"/>stians Directory,</hi> Tome II. <hi>Chap.</hi> XXIV.</p>
+         </div>
+         <div type="part">
+            <pb n="18" facs="tcp:208407:11"/>
+            <head>Plain and Practical DIRECTIONS FOR THE Profitable Reading OF THE HOLY SCRIPTURES.</head>
+            <p>
+               <hi>BEgin with Prayer</hi>
+               <note n="*" place="margin">We must Plow with God's Hei<g ref="char:EOLhyphen"/>fer, if we would understand his Riddle.</note>. What the Apostle saith concern<g ref="char:EOLhyphen"/>ing every Creature of God. that <hi>it is sanctified,</hi> and made fit for a Free and Holy Use, <hi>By the Word of God and Prayer,</hi> 1 Tim. 4.5. may be applied to <hi>Reading the Holy Scriptures,</hi> and to every other solemn Action of our Lives, that it is sanctified and made a Means of spiritual Good, <hi>viz.</hi> increase in Knowledge and Holiness by Prayer: And therefore when we enter upon this Duty of Reading. We must lift up our Hearts to God, that He, who is the <hi>Author</hi> and <hi>In<g ref="char:EOLhyphen"/>diter</hi> of the Holy Scriptures, would be the <hi>Interpre<g ref="char:EOLhyphen"/>ter</hi> of 'em to us; That he would <hi>open our Ʋnder<g ref="char:EOLhyphen"/>standings,</hi> as he did the Understandings of the Apo<g ref="char:EOLhyphen"/>stles,
+<pb n="19" facs="tcp:208407:11"/>(<hi>Luke</hi> 24.45.) to understand the Scriptures, <hi>i. e.</hi> that we may understand the spiritual Sense and meaning of 'em. There's the <hi>Litteral Sense,</hi> which we may understand in a great Measure, by our na<g ref="char:EOLhyphen"/>tural Abilities of Reason, Consideration, and the like, and by help of Humane Learning, as studying the Originals, Reading of Commentators, <hi>&amp;c.</hi> And there's also a <hi>Spiritual Sense,</hi> which is spiritually dis<g ref="char:EOLhyphen"/>cerned, which God <hi>reveals unto us by his Spirit,</hi> 1 Cor. 2.9, 14. Hence <hi>David</hi> Praies so often for this Illumination of the Spirit upon this occasion, <hi>Psalm</hi> 119.18, 27, 33. <hi>Paul</hi> while a <hi>Pharisee,</hi> was ignorant of this spiritual Sense of the Law, notwith<g ref="char:EOLhyphen"/>standing all his natural and acquired Abilities, till he was made to understand it by the Spirit, <hi>Rom.</hi> 7.9. This is the <hi>Ʋnction from the Holy One,</hi> which enables us to <hi>Know all Things,</hi> 1 John 2.20. And to <hi>Judge of all Things,</hi> 1 Cor. 2.15. And this we have Encouragement to beg, from that Promise, <hi>James</hi> 1.5. <hi>If any Man wants Wisdom, let him ask it of God, who gives liberally, and upbraids not.</hi>
+            </p>
+            <p n="2">2. <hi>Be fill'd with a Sense of thy own Emptiness and Ignorance.</hi> They that are full of themselves have no room to receive any more; and therefore they are sent empty away, (<hi>Luke</hi> 1.53.) Empty of Knowledge; for, <hi>He that thinks he knows any thing, knows nothing yet as he ought to know,</hi> 1 Cor. 8.2. VVhereas <hi>Solomon</hi> assures us (<hi>Prov.</hi> 11.2.) that <hi>with the lowly is Wisdom.</hi> For the Promise is made to such, <hi>Psalm</hi> 25.9. <hi>The Meek,</hi> (the <hi>Lowly,</hi> or <hi>Humble;</hi> as it is Translated, <hi>Psalm</hi> 9.12. and 10.17. and so frequently) <hi>Will he guide in Judge<g ref="char:EOLhyphen"/>ment, and the Lowly will he teach his Way.</hi> This Dispensation and VVay of God's dealing in this re<g ref="char:EOLhyphen"/>spect, our Saviour Christ takes Notice of and bles<g ref="char:EOLhyphen"/>ses him for, <hi>Mat.</hi> 11.25. <hi>I thank Thee, O Father, Lord of Heaven and Earth, because thou hast hid th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>se things from the Wise and Prudent, (i. e.</hi> such as
+<pb n="20" facs="tcp:208407:12"/>thought themselves so: That were highly Conceited of themselves, and of their own VVisdom and Un<g ref="char:EOLhyphen"/>derstanding: As the <hi>Scribes</hi> and <hi>Pharisees</hi> were, <hi>John</hi> 9.41. <hi>Ye say, We see.</hi> As Christ calls those <hi>Whole</hi> and <hi>Righteous,</hi> which were so in their own Conceit, <hi>Mark</hi> 2.17. So he calls them <hi>Wise and Prudent,</hi> that look'd upon themselves as such; tho' really it was otherwise with 'em, and therefore else<g ref="char:EOLhyphen"/>where he calls 'em <hi>Fools and Blind,</hi> (Mat. 23.17.) <hi>and hast revealed 'em unto Babes;</hi> i. e. (hast opened the Understandings of my Disciples and Followers, who have mean Thoughts of themselves) to per<g ref="char:EOLhyphen"/>ceive, receive, and embrace the Mysteries of the Gospel. It's a great help to Knowledge, to be ac<g ref="char:EOLhyphen"/>quainted with our own Ignorance. Therefore said <hi>Deo meo gratias ago, quod ignorantiam meam non ig<g ref="char:EOLhyphen"/>noro. I Thank my God, that I am not ignorant of my Ignorance.</hi>
+            </p>
+            <p>Empty thy Self then of all Self-conceit, that thou mayst be in a Capacity to be fill'd by God. Come with an humble, lowly Mind to the Reading of the Scripture: For <hi>God gives Grace</hi> (the Grace of Knowledge and Understanding as well as other Graces) to such. Don't impose thy Sense upon Scripture, but receive thy Sense from the Scripture. Frame thy Notions and Apprehensions according to the Model, and <hi>Form of sound Words</hi> contain'd there<g ref="char:EOLhyphen"/>in. Humbly deliver up thy Mind and Understand<g ref="char:EOLhyphen"/>ing to be cast into the Mold thereof, (<hi>Rom.</hi> 6.17.) to receive Impressions <hi>from</hi> it, and not to make Im<g ref="char:EOLhyphen"/>pressions upon it. <q>Those Men are to be abhorr'd, that submit not their Thoughts and Conceptions to this sacred Standard; who compel the Scripture to serve their private Opinions; who make no Conscience of putting a Text upon the Rack to make it speak what it intended not; of miserably torturing it that they may force it to confess what it never meant. These Persons should be remind<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:208407:12"/>how great a Sin it is to distort and deprave th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Holy VVrit, and designedly to draw it to ano<g ref="char:EOLhyphen"/>ther Sense than it naturally bears: And the Pe<g ref="char:EOLhyphen"/>nalty is as grievous as the Crime; for as the Apostle St. <hi>Peter</hi> informs us; This Generation of Men, wrest the Scriptures to their own De<g ref="char:EOLhyphen"/>struction.</q>
+               <hi>Edwards</hi> of the Excellency and Per<g ref="char:EOLhyphen"/>fection of the Holy Scriptures, <hi>Part</hi> 3. p. 585.</p>
+            <p n="3">3. <hi>Be frequent and diligent in the Reading and Study of the Scriptures.</hi> VVe are commanded by our Saviour Christ, <hi>John</hi> 5.39. To <hi>Search the Scrip<g ref="char:EOLhyphen"/>tures.</hi> Not barely to read 'em, but to sift 'em nar<g ref="char:EOLhyphen"/>rowly, thereby to find out the full Force and true Meaning of every Sentence; yea, of every VVord and Syllable. VVe must dig into the Bowels of the Scripture, as Miners do into the Bowels of the Earth for Silver and Gold, and precious Stones. The Scriptures are able to make us <hi>Wise unto Sal<g ref="char:EOLhyphen"/>vation,</hi> 2 Tim. 3.15. To endue with saving VVis<g ref="char:EOLhyphen"/>dom: This VVisdom is to be sought for as Silver, and searched after as hid Treasures, <hi>Prov.</hi> 2.4. Silver and Treasures are not gathered by every Lazy Passenger on the surface of the Earth: but Men must with indefatigable Pains and Industry, pierce into the Bowels of the Earth in quest of those hid Treasures that lye buried in it: So must we for these Treasures of Heavenly VVisdom. There are Things contain'd in the Scriptures which the Prophets of Old, notwithstanding the Advantage of their own special Revelations, enqui<g ref="char:EOLhyphen"/>red diligently after; yea, which even the Angels themselves desire to bow down, and look into, 1 <hi>Pet.</hi> 1.11, 12. Much more then should they be studied by us, who are of such narrow Capacities, and shallow Understandings.</p>
+            <p>The Scripture is the best Interpreter of it self under God: Therefore the more thou art Con<g ref="char:EOLhyphen"/>versant in it, the greater Acquaintance thou wilt
+<pb facs="tcp:208407:13"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t with its Phrase and Manner of Speech. What <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> exprest in one Place more doubtfully and ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rely, is many Times exprest in another more <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ainly and intelligibly. Therefore compare Place <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith Place, and the scope of one Place, with the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ope of another; for which purpose the Parallel <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>criptures in <hi>Clark</hi>'s <hi>Annotations</hi> may be of good <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se.</p>
+            <p>Again, we are commanded also to have the <hi>Word <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Christ dwelling in us richly,</hi> Col. 3.16. It must <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot only be without us, but <hi>within us;</hi> not only in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur <hi>Houses,</hi> but in our <hi>Hearts;</hi> and that not only as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Stranger</hi> and Sojourner, but as a <hi>Dweller</hi> and A<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ider; not for a Day or Two, but for continuance, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o take up its fixed residence there, so as to make <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t our Meditation Day and Night: To have it <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eady by us for our use upon all Occasions: And <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his not in a scanty Degree; not sparingly and pe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uriously, but plentiously and <hi>richly;</hi> that we may <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e throughly furnisht to every good Work, 2 <hi>Tim.</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.17. And for this end.</p>
+            <p n="4">4. <hi>Read it deliberately, with due Attention, Obser<g ref="char:EOLhyphen"/>vation and Consideration.</hi> This is the Apostle's Direction, 1 <hi>Tim.</hi> 4.13. <hi>Give attendance to Read<g ref="char:EOLhyphen"/>ing.</hi> Observe carefully what you read: Be intent upon it: Apply your Mind wholely to it. Let not your Thoughts run waste, go astray, play the Truants and ramble after other Things; but keep 'em close to Work; fix 'em upon the business in Hand: And then read with De<g ref="char:EOLhyphen"/>liberation, so as that nothing may pass unobserved. Run it not over hastily, like a Task, but <hi>consider what is said</hi> (2 <hi>Tim.</hi> 2.7.) especially when you meet with any thing that does more nearly con<g ref="char:EOLhyphen"/>cern you, and is suited to your Case. Water pour<g ref="char:EOLhyphen"/>ed hastily upon a narrow-mouth'd Vessel will most of it run beside, and but little will run in: We are narrow-mouth'd Vessels, and apt to let things
+<pb n="23" facs="tcp:208407:13"/>slip: Therefore <hi>we must give the more earnest heed to the things we read</hi> (Heb. 2.1.) <hi>least we let Things run beside:</hi> That is the force of the Word, according to that Learned Critick <hi>H. Stephens. Eâ significatione quâ dicitur fluvius, aut aqua quae<g ref="char:EOLhyphen"/>piam praeter fluere locum aliquem. Steph. in The<g ref="char:EOLhyphen"/>sauro.</hi> We say, <hi>Haste makes Waste:</hi> And cer<g ref="char:EOLhyphen"/>tainly by reading hastily, we lose abundance of that excellent Matter, which, by Delibe<g ref="char:EOLhyphen"/>ration, we might gain; as every one may find by Experience. The <hi>Rabbins</hi> have a Saying, That up<g ref="char:EOLhyphen"/>on every Letter of the Law, there hang Mountains of Sense; <hi>Non est in lege vel litera una a quâ non pendent Montes magni.</hi> Picke. Avoth. <hi>ch.</hi> 2. And our Saviour Christ tells us, (<hi>Mat.</hi> 5.18.) That <hi>one Jot, or one Tittle shall in no wise pass from the Law:</hi> So, we should not suffer one Jot or Tittle to pass unobserved; since a little Word may contain a great deal of Matter, and many excellent Lessons may be learned from the very Coherence, Occasi<g ref="char:EOLhyphen"/>on and the like. It is a Passage of Holy, Laborious Mr. <hi>Stockton, That the observing and pondering every Word and Circumstance in a Promise is of great Ʋse. Stockton</hi>'s <hi>Life,</hi> p. 96. of which you may find many Examples in those Memorials he left of himself, and Publisht in his Life by my worthy Friend, and Academical Acquaintance Mr. <hi>John Fairfax.</hi>
+            </p>
+            <p n="5">5. <hi>Come to the Word with earnest Desires to profit by it.</hi> The Usefulness and Profitableness of the Scrip<g ref="char:EOLhyphen"/>ture in several Particulars, the Apostle acquaints us with, 2 <hi>Tim.</hi> 3.16. <hi>Rom.</hi> 15.4. (1.) It is profitable <hi>for Doctrine;</hi> to Teach us what we are to <hi>Know, Believe,</hi> and <hi>Practice,</hi> in order to our E<g ref="char:EOLhyphen"/>verlasting Happiness. (2.) <hi>For Reproof;</hi> to enable us to convince Gain-sayers, (<hi>Tit.</hi> 1.9.) and con<g ref="char:EOLhyphen"/>fute Errors. (3.) <hi>For Correction;</hi> to reform the Life, and free it from all corrupt Manners, unwar<g ref="char:EOLhyphen"/>rantable Practises and vicious Courses. (4.) <hi>For
+<pb n="24" facs="tcp:208407:14"/>Instruction to Righteousness;</hi> to teach us how to make further progress in the way to Heaven, and to walk on in the right way to true Happiness. (5.) It is profitable to teach us how to exercise <hi>Patience</hi> un<g ref="char:EOLhyphen"/>der all the hardships we must undergo, and the Trials we may meet with in our Pilgrimage: (6.) It holds forth manifold <hi>Comforts</hi> to us, to ena<g ref="char:EOLhyphen"/>ble us to run with chearfulness the Race that is set afore us. (7.) It serves to the Breeding, Encrea<g ref="char:EOLhyphen"/>sing and Confirming our <hi>Hope</hi> and Expectation of Everlasting Life. In which respects it has many glorious Titles and high Commendations given it by Authors, both Ancient and Modern. It is cal<g ref="char:EOLhyphen"/>led both the Food and Physick of the Soul, an A<g ref="char:EOLhyphen"/>pothecaries Shop where spiritual Medicines for all the Diseases and Ailes of the Soul are to be found; where there's a Salve for every Sore, a Remedy for every Malady. But I can't better express my self upon this Head, nor display the excellent Useful<g ref="char:EOLhyphen"/>ness of the Holy Scriptures, than in the Words of the Reverend Dr. <hi>Roberts,</hi> in the <hi>Introduction to his Clavis Bibliorum.</hi>
+               <q>Here are unfolded the Cove<g ref="char:EOLhyphen"/>nant of Grace, wholly made up of heavenly Cor<g ref="char:EOLhyphen"/>dials: The Promises of the Life that now is, and that which is to come, exceeding great and pre<g ref="char:EOLhyphen"/>cious. The Comforts of God, able to Counter<g ref="char:EOLhyphen"/>poise the deepest Disconsolations. Here are dis<g ref="char:EOLhyphen"/>covered the Miseries of all that are in the first <hi>Adam,</hi> the Felicities of all that are in the second <hi>Adam,</hi> and the Way how Poor Souls are Transla<g ref="char:EOLhyphen"/>ted from those Miseries to those Felicities. In a Word, VVhat is there not in Holy Scriptures? Are we afflicted? Here's our Solace. Are we per<g ref="char:EOLhyphen"/>secuted? Here's our Protection. Are we desert<g ref="char:EOLhyphen"/>ed? Here's our Recovery. Are we tempted? Here's our <hi>Sword</hi> and Victory. VVhilest we Live, here's the Rule of our Conversation; when we dye, here's the Hope of our Glorification. So
+<pb n="25" facs="tcp:208407:14"/>that I may say with <hi>Tertullian, I adore the fulness of the Scripture.</hi>
+               </q>
+            </p>
+            <p>Since then it is so exceeding Profitable, if we don't bring along with us sincere and hearty Desires to partake of this Profit, what do we spend our Time about it for? Come we then to it with a Mind and Desire to Profit by it: To have our Minds more enlightned with the saving Knowledge of his Will, and all other Graces encreased, that we may abound in the Fruits of Holiness and Righ<g ref="char:EOLhyphen"/>teousness, and become more flourishing in the Courts of our God.</p>
+            <p n="6">6. <hi>Exercise Faith on the several Parts of the Scrip<g ref="char:EOLhyphen"/>ture.</hi> I don't mean barely to Assent to the Truth of 'em with an Historical Faith; that's no great Matter to do: Generally, all that call themselves Christians pretend to this: But to imploy an Ope<g ref="char:EOLhyphen"/>rative Faith about 'em, <hi>i. e.</hi> such a Faith as shows it self in the Life. <hi>Believe the Precepts so as to obey 'em; Believe the Promises so as to Suck Comfort from 'em,</hi> and so as to be encouraged thereby in the Way of Holiness: And <hi>Believe the Threatnings so as to be deterr'd thereby from Sin.</hi> And thus to believe the Scripture is no easie Matter: For it is ea<g ref="char:EOLhyphen"/>sie to prove, that few of those who pretend to believe 'em, nay, perhaps are possest with true and saving Faith, do yet firmly believe 'em with such an inward, hearty Perswasion, and Operative Faith, as I have mention'd. I shall prove it plain<g ref="char:EOLhyphen"/>ly and undeniably to you, by this convi<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Illu<g ref="char:EOLhyphen"/>stration. If some King or Nobleman, who h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s always been found true and faithful to his Word, without any one instance to the contrary, shall Declare and give Notice, That whosoever comes to him by such a Time, and will go over with him beyond Sea to such a Place, when he comes there he'll give him a hundred Pound, and so many A<g ref="char:EOLhyphen"/>cres
+<pb n="26" facs="tcp:208407:15"/>of Land, and make him a great Man; so that he shall much Advantage himself in all Respects, and it shall be better with him than it is now, if Persons do believe him (especially they who are Poor and Needy) they will certainly come and ac<g ref="char:EOLhyphen"/>cept of his Offer: And if such Persons do not come, it's a certain Sign that they do not believe him. (I might put many such Cases.) So when God hath said, <hi>If ye live after the Flesh ye shall dye: It is a People of no Ʋnderstanding, therefore he that made them will not have Mercy on them, and he that formed them, will show 'em no Favour,</hi> Isa. 27.11. <hi>He will not be merciful to any wicked Transgressor,</hi> Psalm 59.5. If fleshly Livers, ignorant Persons, wicked Transgressors, notwithstanding this Declaration of God's Will, will yet persuade themselves that they shall live in Eternal Happiness, and that God will be merciful to 'em, this evidently proves that they don't believe those Scripture-Threatnings. Again, when Scripture saith, <hi>He that Sowes sparingly shall Reap sparingly,</hi> though Persons do Sow, yet if they do it in a penurious, scanty, sparing Manner, and not Liberally and Bountifully, it's a certain Evi<g ref="char:EOLhyphen"/>dence. That they don't believe that Scripture-Pro<g ref="char:EOLhyphen"/>mise: For I never knew any Man so covetous as to be s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ring of his Seed. How many such In<g ref="char:EOLhyphen"/>stances might be given? So that I say, it's no such easie and common Matter, as many think it, to believe the Scripture; and therefore, I give you <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Direction, when you come to read the Scripture, to bring along with you a firm Perswa<g ref="char:EOLhyphen"/>sion of the Truth of every thing contain'd there<g ref="char:EOLhyphen"/>in.</p>
+            <p>And that this is the Way to profit thereby, is plain from that Passage of the Apostle, <hi>Heb.</hi> 4.1. <hi>the Word Preached</hi> (or Read) <hi>did not profit them, not being mixed with Faith in them that Heard</hi> (or
+<pb n="27" facs="tcp:208407:15"/>Read) <hi>it:</hi> Implying, That the Way to profit by the Word is to receive it by Faith, whereby it is received into, digested and incorporated into the Soul, and so the Soul is nourisht thereby, as the Body is by it's Food.</p>
+            <p n="7">7. <hi>Select such Places in Reading as may be of spe<g ref="char:EOLhyphen"/>cial use to you.</hi> Here I shall only Transcribe, what was written long ago by Mr. <hi>N. B.</hi> in the <hi>Preface</hi> to his Directions for Reading the Scripture. <q>He that comes to Read the Scripture should especially set himself to observe, the most needful Places to enlarge his own Knowledge, and further his own growth in the true Grace of God. As for Exam<g ref="char:EOLhyphen"/>ple.</q>
+            </p>
+            <q>
+               <p>
+                  <hi>First,</hi> It were a Thing of admirable Use all my Life long, if I did set down all the Places of Scripture, that in the Reading I find sensible Comfort, and ravishing of Heart in. It may be in the whole Bible, I may find Twenty, Forty, Fifty, <hi>&amp;c.</hi> of such Places, as I was sure in the Reading, did wonderfully fill my Heart with se<g ref="char:EOLhyphen"/>cret Refreshing, and sensibly Joy: Now these Pla<g ref="char:EOLhyphen"/>ces so noted, not only serve for present use, but while I Live in any Distress I may have recourse to these, as so many Wells of Joy: And if in my Grief one or two, or ten of 'em did not Comfort me, yet a thousand to one but some of 'em, will have Spirit and Life in 'em to refresh me again in my Sorrows. Besides, it marvellously establishes my Faith, when I remember in how many distinct Places of Scripture, the Lord was pleased to Comfort me in Particular. This is one Thing we should observe.</p>
+               <p>
+                  <hi>Secondly,</hi> Would it not be exceeding profitable, if I did Note all the Places of Scripture, which in Reading of 'em did sensibly smite my Heart, and reprove some Fault in me, so as I felt my
+<pb n="28" facs="tcp:208407:16"/>Heart troubled within me? Certainly by that time I had gone through the Scriptures, I should see the Anatomy of my Corruptions, and plainly perceive, what things there were in my Nature, that God had a quarrel against: And so might be guided by the very Finger of God, to know the Faults I should set my Self most against in Mor<g ref="char:EOLhyphen"/>tification.</p>
+               <p>
+                  <hi>Thirdly,</hi> In Reading, one shall find sometimes certain Rules or Counsels given, which one sen<g ref="char:EOLhyphen"/>sibly is affected withal, and has an inward Desire O that I could but remember this Counsel of the Holy Ghost! Now I would Note all those Places, that the Holy Ghost has made me in Love withal in the Reading, that might concern my own particular Direction, either at Home or Abroad.</p>
+            </q>
+            <p>And then in the End of the Book he sets down these.</p>
+            <q>
+               <p>
+                  <hi>Rules or Titles of Things to be observed in Read<g ref="char:EOLhyphen"/>ing.</hi>
+               </p>
+               <p n="1">1. <hi>Places that in Reading I found sensible Comfort in.</hi>
+               </p>
+               <p n="2">2. <hi>Places that I found did rebuke Corruption in my Nature or Practise.</hi>
+               </p>
+               <p n="3">3. <hi>Places that show the Priviledges of the Godly above all other Men.</hi>
+               </p>
+               <p n="4">4. <hi>Places that show the Affection I should bear to God.</hi>
+               </p>
+               <p n="5">5. <hi>Places that show me how to carry my Self in the Church.</hi>
+               </p>
+               <p n="6">6. <hi>Places that show me how to carry my Self in my Family.</hi>
+               </p>
+               <p n="7">7. <hi>Promises that may Comfort me against my daily Infirmities.</hi>
+               </p>
+               <p n="8">
+                  <pb n="29" facs="tcp:208407:16"/> 8. <hi>Comforts against inward Temptations and Affli<g ref="char:EOLhyphen"/>ctions of Spirit.</hi>
+               </p>
+               <p n="9">9. <hi>Promises to establish me, against the Fear of fal<g ref="char:EOLhyphen"/>ling away.</hi>
+               </p>
+               <p n="10">10. <hi>Promises that may Comfort me against outward Crosses.</hi>
+               </p>
+               <p n="11">11. Grounds or <hi>Places that show me divers Points of Religion,</hi> that I could infallibly rest upon, and Live and Dye in the Assurance of 'em.</p>
+               <p n="12">12. <hi>Hard Places,</hi> that I would be resolved in the meaning of 'em.</p>
+               <p n="13">13. <hi>Comfortable Places concerning Prayer.</hi>
+               </p>
+               <p n="14">14. <hi>Places</hi> that direct me in my particular Cal<g ref="char:EOLhyphen"/>ling.</p>
+               <p n="15">15. <hi>Places</hi> that show me how to carry my Self towards the Wicked, especially when I must needs be in their Company.</p>
+               <p n="16">16. <hi>Comforts against Death.</hi>
+               </p>
+               <p n="17">17. <hi>Places that show the Glory of Heaven.</hi>
+               </p>
+               <p n="18">18. <hi>Places that set out the Terror of Hell.</hi>
+               </p>
+               <p n="19">19. <hi>Choice Sentences,</hi> to be learned without Book.</p>
+               <p n="20">20. <hi>Sentences</hi> for Children to Learn, briefly ex<g ref="char:EOLhyphen"/>pressing the chief Points of Religion.</p>
+               <p n="21">21. <hi>Places against Hypocrisie.</hi>
+               </p>
+               <p n="22">22. The most Memorable <hi>Sayings</hi> of the Godly in their several Estates.</p>
+               <p n="23">23. <hi>Miscellanea,</hi> or Places I would remember, but know not what Head to refer 'em to.</p>
+            </q>
+            <p>Each of these Heads, or so many of 'em as one shall judge most suitable for himself, may be writ<g ref="char:EOLhyphen"/>ten on the Top of the Pages, in a Paper-book made for that End.</p>
+            <p n="8">8. And Lastly, <hi>Be careful to Practise what you know, and you shall know what to Practise.</hi> Christ's Promise to such is express to this Purpose. <hi>John</hi> 7.17,
+<pb n="30" facs="tcp:208407:17"/>
+               <hi>If any Man will do his Will, he shall know of the Doctrine, whether it be of God.</hi> And <hi>David</hi> found the Truth of it by Experience. <hi>Psalm</hi> 119.98, 100. <hi>Thou through thy Commandments hast made me wiser than mine Enemies: For they are ever with me. I have more Ʋnderstanding than all my Teachers; for thy Testimonies are my Meditation, I understand more than the Ancients, because I keep thy Precepts.</hi>
+            </p>
+            <p>Practise is the Life and Soul of Knowledge, without which it is but a dead Carkass. Hereby the <hi>Tree of Knowledge</hi> will become a <hi>Tree of Life</hi> to us. This is the End therefore that we should propound unto our selves, <hi>viz.</hi> to refer all to Practise; by performing the Duties enjoyn'd, and avoiding the Sins forbidden in the Word. This <hi>David</hi> promised to do, <hi>Psalm</hi> 119.33. <hi>Teach me O Lord the Way of thy Judgments, and I will keep them unto the End.</hi> Without this our Know<g ref="char:EOLhyphen"/>ledge will but aggravate our Condemnation, <hi>Luke</hi> 12.47. <hi>The Servant that knew his Lord's Will, and prepared not himself, neither did according to his Will shall be beaten with many Stripes.</hi> How should we expect that God should inligh<g ref="char:EOLhyphen"/>ten our Understandings with the Knowledge of his Will, or give us more, if we don't make use of that we have? Yea, we may rather ex<g ref="char:EOLhyphen"/>pect, that he should take away that Talent from us, which we hide unprofitably in a Nap<g ref="char:EOLhyphen"/>kin: As he threaten'd to do, <hi>Luke</hi> 19.24. I shall conclude these Directions with that Passage of <hi>Jerom</hi> to <hi>Celantius, Sint ergo Divinae Scriptu<g ref="char:EOLhyphen"/>rae semper in manibus tuis,</hi> &amp;c. <hi>Let therefore the Holy Scriptures be always in thy Hands, and me<g ref="char:EOLhyphen"/>ditate on 'em in thy Mind; yet don't think it suf<g ref="char:EOLhyphen"/>ficient to have God's Laws in thy Memory, if thou forget them in thy Works, but therefore
+<pb n="31" facs="tcp:208407:17"/>know them, that thou mayst do what thou knowest. for not the Hearers of the Law are Just before God, but the Doers of it are justified.</hi> These are the Persons who are pronounced Happy by Christ, <hi>John</hi> 13.17. <hi>If ye know these Things, Hap<g ref="char:EOLhyphen"/>py are ye if ye do them.</hi> Let us <hi>Do</hi> so, that we may <hi>Be</hi> so. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:208407:18"/>
+            <head>BOOKS Printed for <hi>Tho. Parkhurst</hi> at the <hi>Bi<g ref="char:EOLhyphen"/>ble</hi> and <hi>Three Crowns</hi> in <hi>Cheapside.</hi>
+            </head>
+            <p>A Treatise of the Institution, right Admini<g ref="char:EOLhyphen"/>stration and receiving of the Sacrament of the Lord's up per, By Mr. <hi>Richard Vines.</hi>
+            </p>
+            <p>A True Touch-stone of Grace and Nature, or a Discourse concerning Self-examination, with Medi<g ref="char:EOLhyphen"/>tations relating to the Lord's Supper. By Mr. <hi>N. Vincent,</hi> late Minister of the Gospel.</p>
+            <p>A Communicant Instructed, or Practical Dire<g ref="char:EOLhyphen"/>ctions for worthy receiving of the Lord's Supper. By <hi>Fran. Roberts,</hi> M. A.</p>
+            <p>
+               <hi>Convivium Coeleste,</hi> or a Discourse concerning the Lord's Supper, shewing at once the Nature of that acrament, as also the right Way of preparing our selves for the receiving of it, <hi>&amp;c.</hi> by the Right Re<g ref="char:EOLhyphen"/>verend Father in God, <hi>Richard</hi> Lord Bishop of <hi>Bath</hi> and <hi>Wells.</hi>
+            </p>
+            <p>Sacramental Discourses on several Texts before, and after the Lord's Supper. By <hi>John Shower.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
